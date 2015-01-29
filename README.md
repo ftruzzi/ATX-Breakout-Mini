@@ -4,7 +4,6 @@ ATX Breakout Board
 Eagle files for my ATX Breakout Board (v1, with USB support using a TPS2513 and voltage control with a LM317). Based on the Dangerous Prototypes' idea.
 
 ##Features
-========
 
 *   **24-pin ATX** connector.
 *   Voltage lines are all broken out individually on **binding posts**.
