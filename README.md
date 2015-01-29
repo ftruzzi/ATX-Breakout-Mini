@@ -13,7 +13,7 @@ Eagle files for my ATX Breakout Board (v1, with USB support using a TPS2513 and 
 *   **Breadboard pin headers** so that voltage lines can be connected to a breadboard using jumper cables.
 *   **Voltmeter** headers in order to know the LM317 output voltage.
 *   There is room for a **9W power resistor** is your PSU needs it to stabilize output voltages. You can connect it either to the 5v rail or to the 12v one by jumpering the corresponding pads.
-*   **Status LEDs**on fused lines and USBs so you can check if everything works fine.
+*   **Status LEDs** on fused lines and USBs so you can check if everything works fine.
 *   Screw holes for standoffs.
 
 
