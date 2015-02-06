@@ -15,6 +15,7 @@ Eagle files for my ATX Breakout Board (v1, with USB support using a TPS2513 and 
 *   There is room for a **9W power resistor** is your PSU needs it to stabilize output voltages. You can connect it either to the 5v rail or to the 12v one by jumpering the corresponding pads.
 *   **Status LEDs** on fused lines and USBs so you can check if everything works fine.
 *   Screw holes for standoffs.
+*   **NEW**: resistors added to the USB ports. You may want to use them for USB identification, as they are cheaper and easier to find than the TPS2513. Adafruit link for more info: https://learn.adafruit.com/minty-boost/icharging
 
 
 
