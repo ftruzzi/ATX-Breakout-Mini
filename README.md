@@ -18,7 +18,6 @@ Eagle files for my ATX Breakout Board (v1, with USB support using a TPS2513 and 
 *   **NEW**: resistors added to the USB ports. You may want to use them for USB identification, as they are cheaper and easier to find than the TPS2513. Adafruit link for more info: https://learn.adafruit.com/minty-boost/icharging
 
 
-
-Feel free to visit my website on http://truzzi.me.
+More details and pictures on my blog: http://b.truzzi.me/building-a-better-breakout-board-for-atx-psus-2
 
 Suggestions and feedback are very welcome!
