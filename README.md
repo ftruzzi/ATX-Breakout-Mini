@@ -14,7 +14,7 @@ Just finished updating the board. BOM updates and post blogs will follow. I'm al
 Changes and additions:
 
 *   Thickened many traces, **removed pin header** in the middle of the board and **added one behind each binding post** (up to 5 output pins per voltage line, with no risk of burning any traces).
-*   **Added resistors to the USB ports.** You may want to use them for USB identification, as they are cheaper and easier to find than the TPS2513. Adafruit link for more info: https://learn.adafruit.com/minty-boost/icharging
+*   **Added resistors to the USB ports (on the back of the board).** You may want to use them for USB identification, as they are cheaper and easier to find than the TPS2513. Adafruit link for more info: https://learn.adafruit.com/minty-boost/icharging
 *   Moved LM317 so that you can mount it horizontally + used a footprint with longpads, should you want to solder wires to an external voltage reg + heatsink.
 *   **Prototyping area added** at the top left of the board. Not sure if it will ever come useful, but I had some empty space there. You have easy access to the 3V3 and 5V lines.
 *   Moved/rearranged several parts (pot, switch, LEDs) in order to draw shorter and cleaner traces.
